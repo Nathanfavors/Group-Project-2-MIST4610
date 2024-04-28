@@ -4,7 +4,7 @@
 
 ## Team Members:
 
-Emily McNeice    [@ekmcneice]
+Emily McNeice    [@ekmcneice](https://github.com/ekmcneice/Group-Project-2-MIST4610)
 
 Warren Paintsil  [@wpaintsil]
 
