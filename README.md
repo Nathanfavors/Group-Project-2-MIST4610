@@ -12,7 +12,7 @@ Nathan Favors [@Nathanfavors]
 
 Duncan Zeller   [@duncanzeller](https://github.com/duncanzeller/Group-Project-2-MIST4610)
 
-Jessica Hall [@jessicahall57]
+Jessica Hall [@jessicahall57] (https://github.com/jessicahall57/Group-Project-2-MIST4610)
 
 Owen Goble [@OwenGoble](https://github.com/OwenGoble/Group-Project-2-MIST4610)
 
