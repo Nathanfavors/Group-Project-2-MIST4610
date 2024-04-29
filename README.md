@@ -19,7 +19,7 @@ Owen Goble [@OwenGoble](https://github.com/OwenGoble/Group-Project-2-MIST4610)
 
 https://catalog.data.gov/dataset/1-08-crash-data-report-detail-498c3
 
-
+Data Description
 
 ## Question 1: What correlations exist between the seasonal migration of college students in Tempe, Arizona, and the occurrence of high severity traffic crashes, and how do the ages of drivers involved in crashes vary across different months of the year?
 Understanding how temporal fluctuations in population demographics, such as the seasonal migration of college students, intersect with road safety outcomes in Tempe helps to identify vulnerable age groups and seasonal trends. By identifying these correlations, transportation authorities can develop more effective strategies for mitigating road risks, enhancing safety measures, and ultimately reducing the incidence of high severity traffic crashes throughout the year.
