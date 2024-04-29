@@ -8,7 +8,7 @@ Emily McNeice    [@ekmcneice](https://github.com/ekmcneice/Group-Project-2-MIST4
 
 Warren Paintsil  [@wpaintsil](https://github.com/wpaintsil/Group-Project-2-MIST4610)
 
-Nathan Favors [@Nathanfavors]
+Nathan Favors [@Nathanfavors](https://github.com/Nathanfavors/Group-Project-2-MIST4610)
 
 Duncan Zeller   [@duncanzeller](https://github.com/duncanzeller/Group-Project-2-MIST4610)
 
@@ -19,7 +19,7 @@ Owen Goble [@OwenGoble](https://github.com/OwenGoble/Group-Project-2-MIST4610)
 
 https://catalog.data.gov/dataset/1-08-crash-data-report-detail-498c3
 
-Data Description
+## Data Description
 Our dataset encompasses a variety of metrics detailing car accidents occurring in Tempe, Arizona, where Arizona State University is situated. The dataset contains tables linked to metrics that might have influenced a collision, including factors like alcohol/drug use, road surface condition, and weather. Additional tables uniquely pinpoint each accident by utilizing information such as the date/time, manner of collision, age and gender of each driver, street name, and severity of injuries. Given that our data focuses on a particular college town, the age distribution of drivers typically mirrors the high concentration of college students, with fewer accidents occurring overall during the summer months.
 
 ## Question 1: What correlations exist between the seasonal migration of college students in Tempe, Arizona, and the occurrence of high severity traffic crashes, and how do the ages of drivers involved in crashes vary across different months of the year?
